@@ -1,0 +1,36 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" fill="#4C3F6C" rx="80"/>
+  
+  <!-- Medical cross accent (top left) -->
+  <rect x="80" y="100" width="15" height="60" fill="#FFFD8F" rx="3"/>
+  <rect x="62.5" y="117.5" width="50" height="15" fill="#FFFD8F" rx="3"/>
+  
+  <!-- Brand text -->
+  <text 
+    x="256" 
+    y="280" 
+    font-family="system-ui, -apple-system, sans-serif" 
+    font-size="100" 
+    font-weight="700" 
+    fill="white" 
+    text-anchor="middle" 
+    dominant-baseline="middle"
+    letter-spacing="-2">
+    iktara
+  </text>
+  
+  <!-- Tagline -->
+  <text 
+    x="256" 
+    y="360" 
+    font-family="system-ui, -apple-system, sans-serif" 
+    font-size="28" 
+    font-weight="300" 
+    fill="#FFFD8F" 
+    text-anchor="middle" 
+    dominant-baseline="middle"
+    letter-spacing="3">
+    MEDICAL SCRUBS
+  </text>
+</svg>

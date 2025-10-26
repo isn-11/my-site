@@ -1,0 +1,30 @@
+Required PWA Icon Sizes for iktara Medical Scrubs
+================================================
+
+Create PNG files with these exact names and sizes:
+
+icon-72x72.png       - 72 x 72 pixels
+icon-96x96.png       - 96 x 96 pixels
+icon-128x128.png     - 128 x 128 pixels
+icon-144x144.png     - 144 x 144 pixels
+icon-152x152.png     - 152 x 152 pixels (Apple)
+icon-192x192.png     - 192 x 192 pixels (Android)
+icon-384x384.png     - 384 x 384 pixels
+icon-512x512.png     - 512 x 512 pixels (High Resolution)
+
+Design Guidelines:
+- Background Color: #4C3F6C (iktara purple)
+- Foreground: White or #FFFD8F (yellow)
+- Text: "iktara" or just "ik"
+- Style: Clean, professional, medical-themed
+- Format: PNG with transparency or solid background
+
+Quick Creation Methods:
+1. Use realfavicongenerator.net (upload 512x512 source)
+2. Use Canva.com (create 512x512, then resize)
+3. Use Figma (export at multiple sizes)
+4. Convert icon-template.svg using cloudconvert.com
+
+All icons MUST be placed in this folder: /public/icons/
+
+Without icons, the PWA will still work but won't have custom branding.
